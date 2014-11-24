@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="liveandgov-har-tools-1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/liveandgov/liveandgov-har-tools/1.1/liveandgov-har-tools-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

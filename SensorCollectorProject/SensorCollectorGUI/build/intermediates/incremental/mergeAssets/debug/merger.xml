@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="19.1.0" >
+        <source path="/home/hartmann/git/LiveGovWP1/mobile/SensorCollectorProject/SensorCollectorGUI/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/home/hartmann/git/LiveGovWP1/mobile/SensorCollectorProject/SensorCollectorGUI/build/intermediates/exploded-aar/SensorCollectorProject/SensorCollectorLibrary/unspecified/assets" >
+            <file
+                name="helsinki-stops.csv"
+                path="/home/hartmann/git/LiveGovWP1/mobile/SensorCollectorProject/SensorCollectorGUI/build/intermediates/exploded-aar/SensorCollectorProject/SensorCollectorLibrary/unspecified/assets/helsinki-stops.csv" />
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/hartmann/git/LiveGovWP1/mobile/SensorCollectorProject/SensorCollectorGUI/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/hartmann/git/LiveGovWP1/mobile/SensorCollectorProject/SensorCollectorGUI/src/debug/assets" />
+    </dataSet>
+
+</merger>

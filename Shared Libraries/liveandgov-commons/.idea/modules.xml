@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../server/UploadServlet/UploadServlet.iml" filepath="$PROJECT_DIR$/../../server/UploadServlet/UploadServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liveandgov-commons.iml" filepath="$PROJECT_DIR$/liveandgov-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../server/HARTools/liveandgov-har-tools.iml" filepath="$PROJECT_DIR$/../../server/HARTools/liveandgov-har-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liveandgov-proximity/liveandgov-proximity.iml" filepath="$PROJECT_DIR$/../liveandgov-proximity/liveandgov-proximity.iml" />
+    </modules>
+  </component>
+</project>
+

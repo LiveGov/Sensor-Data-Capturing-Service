@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SensorCollectorGUI/SensorCollectorGUI.iml" filepath="$PROJECT_DIR$/SensorCollectorGUI/SensorCollectorGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorCollectorLibrary/SensorCollectorLibrary.iml" filepath="$PROJECT_DIR$/SensorCollectorLibrary/SensorCollectorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorCollectorProject.iml" filepath="$PROJECT_DIR$/SensorCollectorProject.iml" />
+    </modules>
+  </component>
+</project>
+

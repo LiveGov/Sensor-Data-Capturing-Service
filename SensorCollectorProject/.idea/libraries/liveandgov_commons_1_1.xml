@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="liveandgov-commons-1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/liveandgov/liveandgov-commons/1.1/liveandgov-commons-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../shared/liveandgov-commons/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../shared/liveandgov-commons/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
